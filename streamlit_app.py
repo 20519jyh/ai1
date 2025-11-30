@@ -77,7 +77,7 @@ h1 {
 """, unsafe_allow_html=True)
 
 # --- 3. 모델 로드 ---
-file_id = '19dS6rAzHlGekODz1l2F020D9XMlhNDYS'
+file_id = '1I4E6XF_Pghfq15vT3teX05xXR7SC7Ivs'
 model_path = 'model.pkl'
 
 @st.cache_resource
